@@ -10,7 +10,7 @@ xcode open  `src/app-rtc-demo.xcodeproj` and run
 
 ## WebRTC Framework
 
-You can replace `src/WebRTC.framework` by your self
+You can replace `src/WebRTC.framework` by your self build
 
 ## RTC  Server
 
